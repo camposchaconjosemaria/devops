@@ -1,10 +1,5 @@
 # Fases de Desarrollo
 
-El desarrollo de software sigue un proceso estructurado que abarca diversas fases, cada una con sus propios objetivos y actividades clave. A continuación, se describen las fases típicas de desarrollo:
-
-![FasesDesarrollo](https://www.rrhhdigital.com/wp-content/uploads/userfiles/devops-tecnologia-empleo.jpg)
-
-
 ## 1. Planificación:
 En esta fase, se definen las funcionalidades y requisitos de la aplicación o producto. Se establecen los objetivos del proyecto, se identifican los recursos necesarios y se elabora un plan detallado para guiar el desarrollo.
 
