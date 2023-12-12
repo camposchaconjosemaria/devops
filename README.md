@@ -7,6 +7,11 @@ El término DevOps fusiona las palabras "Development" y "Operations", representa
   - [¿Qué es un administrador de sistemas?](administrador.md)
   - [¿Qué es un desarrollador?](desarrollador.md)
   - [Ventajas de Dev0ps](beneficios.md)
-## [2. Fases DevOps](fases.md)
+## 2. Fases DevOps
+
+El desarrollo de software sigue un proceso estructurado que abarca diversas [fases](fases.md), cada una con sus propios objetivos y actividades clave. A continuación, se describen las fases típicas de desarrollo:
+
+![FasesDesarrollo](https://www.rrhhdigital.com/wp-content/uploads/userfiles/devops-tecnologia-empleo.jpg)
+
 ## [3. Herramientas DevOps](herramientas.md)
 
