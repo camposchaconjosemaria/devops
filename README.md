@@ -13,5 +13,8 @@ El desarrollo de software sigue un proceso estructurado que abarca diversas [fas
 
 ![FasesDesarrollo](https://www.rrhhdigital.com/wp-content/uploads/userfiles/devops-tecnologia-empleo.jpg)
 
-## [3. Herramientas DevOps](herramientas.md)
+## 3. Herramientas DevOps
 
+![Herramientas](https://i0.wp.com/geniusitt.com/wp-content/uploads/2018/08/DevOpstools-1.png?fit=1076%2C571&ssl=1)
+
+En el siguiente [enlace](herramientas.md) podrás encontrar más información sobre las herramientas DevOps
