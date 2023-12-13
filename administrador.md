@@ -17,3 +17,5 @@ Un *administrador de sistemas*, también conocido como *administrador de sistema
 - **Copia de Seguridad:** Establecen y mantienen procedimientos de copias de seguridad para garantizar la integridad y recuperación de datos.
 
 El rol del administrador de sistemas es esencial para mantener la estabilidad, seguridad y disponibilidad de la infraestructura tecnológica de una empresa. Su experiencia contribuye significativamente a la eficiencia operativa y al correcto funcionamiento de los sistemas informáticos.
+
+
